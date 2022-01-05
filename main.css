@@ -8,6 +8,9 @@
 }
 button{
 	font-size:15px;
+	border: 2px solid black;
+	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
 }
 #head{
 	background-color:white;
