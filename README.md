@@ -1,0 +1,3 @@
+# Veer Mahajan Education
+###### Welcome to my website! On this website, you will be able to learn many things in mathematics, science, and history. I create videos on my YouTube channel, and I upload relevant educational videos on this website. There are other videos on my channel where I solve questions (like the video "Fun Math Problems #1"), so subscribing to my channel will give you easy access to all of my videos. If you have questions or comments about videos or other stuff on this website, leave them on my discussion tab on my YouTube channel or on specific videos. You can also comment suggestions for videos.
+###### The code for this site was originally on repl.it, but I am now moving it to Github.
