@@ -12,6 +12,7 @@ button{
 	font-size:15px;
 	border: 2px solid white;
 	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	border-radius: 6px;
 
 }
 #head{
