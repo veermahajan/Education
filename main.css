@@ -8,16 +8,13 @@
 	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 	margin:3px;
 	padding:3px;
-
 }
 button{
 	font-size:15px;
-	border: 1px solid black;
 	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 	border-radius: 6px;
 	margin:3px;
 	padding:3px;
-
 }
 #head{
 	background-color:white;
