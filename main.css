@@ -5,10 +5,12 @@
 	
 .buttons{
 	text-align:center;
+	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
 }
 button{
 	font-size:15px;
-	border: 2px solid black;
+	border: 2px solid white;
 	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
 }
